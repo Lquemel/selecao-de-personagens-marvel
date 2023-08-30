@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit; 
+    /* inherit : fonte erdada, no caso seria a fonte
+    do street fight. */
+    vertical-align: baseline;
+    box-sizing: border-box;
+    /* border-box : vai tirar o margin e o 
+    border padrão */
+}
+
+ul{
+    list-style: none;
+    /* tirando o estilo padrão de lista 
+    por exemplo aquelas bolinhas que marca
+    o item da lista. */
+}
